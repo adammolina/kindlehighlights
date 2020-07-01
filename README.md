@@ -1,7 +1,4 @@
 # kindleHighlights
-Email your kindle highlights to yourself periodically
 
-This is the code to copy into your Google Scripts. 
-
-The only thing that you need to change in the code is on line 10. Replace the "x" with the last row number of your Google Sheet. 
-This number will change every time you add a quote to your spreadsheet. 
+This code will select a random row in your Google Sheet and automatically pull the quote and email it to your preferred email address. 
+It will also include the book title and author. 
